@@ -359,7 +359,7 @@ table.data td:first-child{font-weight:700}
 .btn{display:inline-flex;align-items:center;justify-content:center;flex-wrap:nowrap;white-space:nowrap}
 
 /* page-type hooks and faq wrapper */
-.t-home,.t-service,.t-location,.t-blog,.t-blog-index,.t-about,.t-contact,.t-areas-hub,.t-services-hub,.t-legal,.t-404{--page-type:1}
+.t-home,.t-service,.t-location,.t-neighborhood,.t-blog,.t-blog-index,.t-about,.t-contact,.t-areas-hub,.t-services-hub,.t-legal,.t-404{--page-type:1}
 .faq{display:block}
 .srcs{background:var(--soft);box-shadow:none}
 .srcs h2{font-size:1.15rem}
